@@ -3,7 +3,9 @@
 The management of a company has been encouraging for more training and development amongst
 employees within the organization.
 
+
 **Current Process**
+
 The company currently has a training approval process in place which is as follows:
 1. An employee/team leader (requestor) fills in a training booking request form (see below)
 2. The document is then emailed to the department manager for approval by the requestor.
@@ -18,5 +20,9 @@ resubmit back to the learning and development manager.
 5. Finally the training coordinator will make a booking for the training and notify the requestor of the
 training details.
 
-![Training Request Form](https://drive.google.com/file/d/1J8wtU2jOHzt0EUeRuhVibDyvY7ZWIhMQ/view?usp=share_link)
+
+![Training Request Form](./Images/Traininig%20request%20form.png)
+***Image: Training Request Form***
+
+
 
